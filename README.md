@@ -1,3 +1,7 @@
-# MSH_website
+# Django-cms
 
-Website for MSH Lyon St-Etienne about Islam.
+For run and work directly in directory, use command
+
+```bash
+docker-compose run app sh -c "djangocms -p . app"
+```
